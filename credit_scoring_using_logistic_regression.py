@@ -6,7 +6,7 @@ import streamlit as st
 from PIL import Image
 
 def main():
-    st.title("Credit Scoring")
+    st.title("Credit Scoring by Mercurii.AI")
 
 if __name__=='__main__':
     main()
